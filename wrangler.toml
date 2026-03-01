@@ -1,0 +1,11 @@
+name = "cloudrive"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "dist"
+
+[[r2_buckets]]
+binding = "R2"
+bucket_name = "cloudrive"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "87848b1251974f09adc08a31734f60da"
